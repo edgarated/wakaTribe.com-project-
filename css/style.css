@@ -1,0 +1,10 @@
+html,
+body,
+header,
+#intro{height: 100%;   
+}
+
+#intro{ 
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(Images_css/agodi.jpg)}
